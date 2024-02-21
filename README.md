@@ -1,10 +1,9 @@
 ## Sales Dashboard with Power BI
+![Dashboard](https://github.com/Sadikctg/Project_6_Sales_Dashboard_with_PowerBI/blob/main/images/Analytics%20cover.png)
+
 
 ### About Dataset:
 The dataset under examination encompasses transactional data spanning various products and regions from 2012 to 2015 across different countries. With over 51,290 rows and segmented into three distinct categories, it provides detailed insights into markets, customers, products, and returns. This comprehensive dataset serves as the foundation for addressing a critical business challenge faced by a computer manufacturer experiencing declining sales.
-
-![Dashboard](https://github.com/Sadikctg/Project_6_Sales_Dashboard_with_PowerBI/blob/main/images/Sales%20Dashboard%20-%2004_page-0001.jpg)
-
 
 ### Problem Statement:
 In response to dwindling sales figures, the computer manufacturer has enlisted the expertise of a team of data analysts. Their primary task is to delve into the dataset, uncovering meaningful insights into overall sales and revenue patterns. Armed with these insights, the team aims to formulate a revitalized strategy to address the company's sales woes effectively. The ultimate goal is to leverage data visualization techniques to provide a clear and concise representation of sales and revenue figures, facilitating informed decision-making and enabling the company to navigate its sales challenges with confidence and clarity.
@@ -31,6 +30,10 @@ In response to dwindling sales figures, the computer manufacturer has enlisted t
 9. **Testing:** Before finalizing your sales dashboard, conduct thorough testing to ensure its functionality and accuracy. Verify that all visualizations are working as intended and that the data displayed aligns with your expectations. Identify any potential issues or discrepancies and address them promptly to ensure the reliability and integrity of your dashboard. By rigorously testing your dashboard, you can instill confidence in its findings and ensure that it delivers value to its users.
 
 10. **Publishing:** Once your sales dashboard is complete and validated, it's time to share it with your intended audience. Publish the dashboard to the Power BI service to make it accessible to users within your organization or export it as a PDF or PowerPoint presentation for offline viewing. Consider implementing security measures to control access to sensitive data and ensure compliance with data privacy regulations. By publishing your dashboard, you enable stakeholders to access timely and actionable insights that drive informed decision-making and support business objectives.
+
+### Sales Overview
+![Dashboard](https://github.com/Sadikctg/Project_6_Sales_Dashboard_with_PowerBI/blob/main/images/Sales%20Dashboard%20-%2004_page-0001.jpg)
+
 
 #### Profit Overview
 ![Profit Overview](https://github.com/Sadikctg/Project_6_Sales_Dashboard_with_PowerBI/blob/main/images/Sales%20Dashboard%20-%2004_page-0002.jpg)
